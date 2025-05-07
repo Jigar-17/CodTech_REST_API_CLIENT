@@ -48,6 +48,16 @@ This Java application fetches and displays current weather information for a cit
        └── json-20240303.jar
    
 4. **Compile the code:**
+   javac -cp .;json-20240303.jar Rest_API_Client.java
+5. ** Run the Program **
+   java -cp .;json-20240303.jar Rest_API_Client
+   
+## Example Output: 
+Enter city name: Delhi
+Weather in Delhi:
+Temperature: 31.0°C
+Humidity: 34%
+Condition: haze
 
 
 
