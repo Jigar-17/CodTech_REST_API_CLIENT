@@ -9,7 +9,7 @@ import org.json.JSONObject;
 
 public class Rest_API_Client {
 
-    private static final String API_KEY = "01a7e6be349d9b78a85febc69a5919cd"; // Replace this
+    private static final String API_KEY = "01a7e6be349d9b78a85febc69a5919cd"; 
     private static final String BASE_URL = "https://api.openweathermap.org/data/2.5/weather";
 
     public static void main(String[] args) {
